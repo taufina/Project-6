@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "A Random Quote Generator",
+            "description": "This program displays randomly selected quotes each time the button is clicked",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "",
+            "github_link": "https://github.com/taufina/unit-1",
+            "image_urls": ["/images/RandomQuoteGenerator.PNG"]
+        },
+        {
+            "id": 0,
+            "project_name": "A Random Quote Generator",
+            "description": "This program displays randomly selected quotes each time the button is clicked",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "",
+            "github_link": "https://github.com/taufina/unit-1",
+            "image_urls": ["/images/RandomQuoteGenerator.PNG"]
+        }
+        {
+            "id": 0,
+            "project_name": "A Random Quote Generator",
+            "description": "This program displays randomly selected quotes each time the button is clicked",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "",
+            "github_link": "https://github.com/taufina/unit-1",
+            "image_urls": ["/images/RandomQuoteGenerator.PNG"]
+        }
+        {
+            "id": 0,
+            "project_name": "A Random Quote Generator",
+            "description": "This program displays randomly selected quotes each time the button is clicked",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "",
+            "github_link": "https://github.com/taufina/unit-1",
+            "image_urls": ["/images/RandomQuoteGenerator.PNG"]
+        }
+        {
+            "id": 0,
+            "project_name": "A Random Quote Generator",
+            "description": "This program displays randomly selected quotes each time the button is clicked",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "",
+            "github_link": "https://github.com/taufina/unit-1",
+            "image_urls": ["/images/RandomQuoteGenerator.PNG"]
+        }
+    ]
+}

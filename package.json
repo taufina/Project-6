@@ -1,0 +1,26 @@
+{
+  "name": "project-6",
+  "version": "1.0.0",
+  "description": "Project 6 package json",
+  "main": "app.js",
+  "scripts": {
+    "start": "node node_modules/nodemon/bin/nodemon.js app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taufina/Project-6.git"
+  },
+  "author": "Nabila Taufiq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taufina/Project-6/issues"
+  },
+  "homepage": "https://github.com/taufina/Project-6#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
+    "pug": "^2.0.4"
+  },
+  "devDependencies": {}
+}
