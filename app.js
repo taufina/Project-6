@@ -1,12 +1,12 @@
 const express = require("express");
-const pug = require("pug");
+//const pug = require("pug");
 const data = require("./data.json");
 const bodyParser = require('body-parser');
 const app = express();
-const projects = data.projects;
+//const projects = data.projects;
 
 
-// makes working with incoming data easier.
+//makes working with incoming data easier.
 //turned from a string into data your application can use
 //for parsing applications
 app.use(bodyParser.urlencoded({ extended: false}));
@@ -17,25 +17,28 @@ app.set('view engine', 'pug');
 
 app.use('/static', express.static('public'));
 
-//express.static(root, [options])
-
 
 // Adding routes.
 //This will show the projects in the home section.  
 
 app.get('/', (req, res)=> {
-    res.render('index', {projects});
+    res.render('index', {projects: data.projects});
 });
 
 app.get('/about', (req, res)=> {
     res.render('about');
 });
 
-
-app.get('/projects:id', (req, res)=> {
-    res.render('project', {projects});
-});
 //Dynamic routes
+
+app.get('/projects/:id', (req, res)=> {
+    console.log(req.params.id);
+    res.render('project', {
+        project: data.projects[req.params.id - 1],
+        id: req.params.id
+    });
+});
+
 
 
 //handling errors: •	In Express, you can use the next function to signal an error in your app.
