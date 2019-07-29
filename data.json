@@ -1,49 +1,49 @@
 {
     "projects": [
         {
-            "id": 0,
-            "project_name": "A Random Quote Generator",
-            "description": "This program displays randomly selected quotes each time the button is clicked",
+            "id": 1,
+            "project_name": "Random Quote Generator",
+            "description": "A program that displays quotes generated randomly",
             "technologies": ["JavaScript", "HTML", "CSS"],
-            "live_link": "",
+            "live_link": "https://taufina.github.io/unit-1/",
             "github_link": "https://github.com/taufina/unit-1",
-            "image_urls": ["/images/RandomQuoteGenerator.PNG"]
+            "image_urls": ["/images/Project1.PNG"]
         },
         {
-            "id": 0,
-            "project_name": "A Random Quote Generator",
-            "description": "This program displays randomly selected quotes each time the button is clicked",
+            "id": 2,
+            "project_name": "Pagination and Filtering",
+            "description": "Used pagination to show certain number of people per page.",
             "technologies": ["JavaScript", "HTML", "CSS"],
-            "live_link": "",
-            "github_link": "https://github.com/taufina/unit-1",
-            "image_urls": ["/images/RandomQuoteGenerator.PNG"]
-        }
+            "live_link": "https://taufina.github.io/Project-2",
+            "github_link": "https://github.com/taufina/Project-2",
+            "image_urls": ["/images/Project2.PNG", "/images/Project2-2PNG"]
+        },
         {
-            "id": 0,
-            "project_name": "A Random Quote Generator",
-            "description": "This program displays randomly selected quotes each time the button is clicked",
+            "id": 3,
+            "project_name": "Interactive Form",
+            "description": "A conference registration form that is interactive.",
             "technologies": ["JavaScript", "HTML", "CSS"],
-            "live_link": "",
-            "github_link": "https://github.com/taufina/unit-1",
-            "image_urls": ["/images/RandomQuoteGenerator.PNG"]
-        }
+            "live_link": "https://taufina.github.io/Project-3",
+            "github_link": "https://github.com/taufina/Project-3",
+            "image_urls": ["/images/Project3.JPG"]
+        },
         {
-            "id": 0,
-            "project_name": "A Random Quote Generator",
-            "description": "This program displays randomly selected quotes each time the button is clicked",
-            "technologies": ["JavaScript", "HTML", "CSS"],
-            "live_link": "",
-            "github_link": "https://github.com/taufina/unit-1",
-            "image_urls": ["/images/RandomQuoteGenerator.PNG"]
-        }
+            "id": 4,
+            "project_name": "Game Show App",
+            "description": "A game that selects a random phrase, that user must guess.",
+            "technologies": ["JavaScript", "HTML", "CSS", "OOP"],
+            "live_link": "https://taufina.github.io/Project-4",
+            "github_link": "https://github.com/taufina/Project-4",
+            "image_urls": ["/images/Project4-1.PNG", "/images/Project4-2.JPG"]
+        },
         {
-            "id": 0,
-            "project_name": "A Random Quote Generator",
-            "description": "This program displays randomly selected quotes each time the button is clicked",
-            "technologies": ["JavaScript", "HTML", "CSS"],
-            "live_link": "",
-            "github_link": "https://github.com/taufina/unit-1",
-            "image_urls": ["/images/RandomQuoteGenerator.PNG"]
+            "id": 5,
+            "project_name": "Employee Directory",
+            "description": "An employee directory that uses API to get data.",
+            "technologies": ["JavaScript", "HTML", "CSS", "API"],
+            "live_link": "https://taufina.github.io/Project-5",
+            "github_link": "https://github.com/taufina/Project-5",
+            "image_urls": ["/images/Project5-1.PNG", "/images/Project5-2.PNG"]
         }
     ]
 }
