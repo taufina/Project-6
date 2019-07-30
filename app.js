@@ -2,7 +2,7 @@ const express = require("express");
 //const pug = require("pug");
 const data = require("./data.json");
 const bodyParser = require('body-parser');
-const app = express();
+const app = express();  //create the app object using our imported express module
 //const projects = data.projects;
 
 
@@ -12,7 +12,7 @@ const app = express();
 app.use(bodyParser.urlencoded({ extended: false}));
 
 // setting up the pug.  update code in app to use pug.
-app.set('view engine', 'pug');
+app.set('view engine', 'pug'); //set the 'view engine' value to specify the pug library.
 
 
 app.use('/static', express.static('public'));

@@ -7,7 +7,8 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://taufina.github.io/unit-1/",
             "github_link": "https://github.com/taufina/unit-1",
-            "image_urls": ["/static/images/Project1.PNG"]
+            "image_urls": ["/static/images/Project1-1.PNG"],
+            "mainimage":["/static/images/Project1.PNG"]
         },
         {
             "id": 2,
@@ -16,7 +17,8 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://taufina.github.io/Project-2",
             "github_link": "https://github.com/taufina/Project-2",
-            "image_urls": ["/static/images/Project2-1.JPG", "/static/images/Project2-2.PNG"]
+            "image_urls": ["/static/images/Project2-2.PNG", "/static/images/Project2-1.PNG"],
+            "mainimage":["/static/images/Project2.PNG"]
         },
         {
             "id": 3,
@@ -25,7 +27,8 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://taufina.github.io/Project-3",
             "github_link": "https://github.com/taufina/Project-3",
-            "image_urls": ["/static/images/Project3.JPG"]
+            "image_urls": ["/static/images/Project3-3.PNG", "/static/images/Project3-1.PNG", "/static/images/Project3-2.PNG"],
+            "mainimage":["/static/images/Project3.PNG"]
         },
         {
             "id": 4,
@@ -34,7 +37,8 @@
             "technologies": ["JavaScript", "HTML", "CSS", "OOP"],
             "live_link": "https://taufina.github.io/Project-4",
             "github_link": "https://github.com/taufina/Project-4",
-            "image_urls": ["/static/images/Project4-1.PNG", "/static/images/Project4-2.JPG"]
+            "image_urls": ["/static/images/Project4-4.PNG", "/static/images/Project4-2.PNG", "/static/images/Project4-3.PNG"],
+            "mainimage":["/static/images/Project4.PNG"]
         },
         {
             "id": 5,
@@ -43,7 +47,8 @@
             "technologies": ["JavaScript", "HTML", "CSS", "API"],
             "live_link": "https://taufina.github.io/Project-5",
             "github_link": "https://github.com/taufina/Project-5",
-            "image_urls": ["/static/images/Project5-1.PNG", "/static/images/Project5-2.PNG"]
+            "image_urls": ["/static/images/Project5-1.PNG", "/static/images/Project5-2.PNG", "/static/images/Project5-3.PNG"],
+            "mainimage":["/static/images/Project5.PNG"]
         }
     ]
 }
