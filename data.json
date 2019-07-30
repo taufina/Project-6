@@ -3,7 +3,7 @@
         {
             "id": 1,
             "project_name": "Random Quote Generator",
-            "description": "A program that displays quotes generated randomly",
+            "description": "A program that displays a randomly selected quote each time the user clicks a button.",
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://taufina.github.io/unit-1/",
             "github_link": "https://github.com/taufina/unit-1",
@@ -13,7 +13,7 @@
         {
             "id": 2,
             "project_name": "Pagination and Filtering",
-            "description": "Used pagination to show certain number of people per page.",
+            "description": "Using pagination to show only a specific number of people per page, and providing links to the pages.",
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://taufina.github.io/Project-2",
             "github_link": "https://github.com/taufina/Project-2",
@@ -23,7 +23,7 @@
         {
             "id": 3,
             "project_name": "Interactive Form",
-            "description": "A conference registration form that is interactive.",
+            "description": "An interactive form to collect information.",
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://taufina.github.io/Project-3",
             "github_link": "https://github.com/taufina/Project-3",
