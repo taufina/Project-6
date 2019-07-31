@@ -56,4 +56,4 @@ app.use((err, req, res, next)=>{
 
 
 
-app.listen(3000, ()=> console.log("server is running"));
+app.listen(3000, ()=> console.log("server is running"));  //Creating a server
